@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NetHope Emergency Response SitRep 1: Tropical Cyclone Idai – Mozambique, Malawi, and Zimbabwe"
+title:  "NetHope Emergency Response SitRep 1"
 date:   2019-03-20 11:24:01
 categories: post
 ---
@@ -16,7 +16,7 @@ On March 14, Tropical Cyclone Idai made landfall in Mozambique as a Category 3 s
 The initial damage from the cyclone was mainly in the coastal city of Beira, which was right in the path of the cyclone as it made landfall. The city was cut off from the rest of the country as roads were severely damaged due to the flooding and landslides that followed in the aftermath of the cyclone. Initial reports from IFRC indicated that 90 percent of houses in the Beira, home to more than 530,000 people, had been damaged. Many parts of the city were flooded, and wind damage was extensive.
 
 <sub>Tropical Cyclone Idai Impact Map (March 20, 2019) | Map by [ERCC](https://reliefweb.int/sites/reliefweb.int/files/resources/ECDM_20190320_TC_IDAI.pdf)</sub>
-{% fullwidth 'assets/img/190320_echo_map.png' '' %}
+![Tropical Cyclone Idai Impact Map]({{site.baseurl}}/assets/img/190320_echo_map.png)
 
 As humanitarian organizations rushed into Beira to respond, the true extent of the situation became more apparent. Heavy rains and flooding in neighboring countries from previous weeks, combined with the downpour from the cyclone, caused widespread flooding over a large region upstream from Beira. Hundreds of thousands of people, living across the Sofala and Manica provinces were being forced to flee their homes as flooding in the Buzi and Pungwe rivers is causing water as high as six meters to extend over an area 50km beyond the borders of those rivers.
 
