@@ -7,7 +7,7 @@ categories: post
 
 This report provides an update on the NetHope Emergency Response Team efforts in the aftermath of Tropical Cyclone Idai.
 
-##Summary of Situation
+## Summary of Situation
 
 On March 14, Tropical Cyclone Idai made landfall in Mozambique as a Category 3 storm. As it traveled inland, it dumped large amounts of rain over areas of Mozambique, Zimbabwe, and Malawi that were already inundated from weeks of heavy rains. As the traditional rain season continues through the end of March, continued heavy rainfall in the area is causing additional issues.
 
@@ -24,13 +24,13 @@ As the search and rescue operations continue across the region, the humanitarian
 
 Voice and data services in the affected area are severely impacted and are expected to continue to have issues as water levels rise. Power is also out in most of the region and the government expects it will take weeks for it to be restored. All major roads into the affected area are either flooded or have been severely damaged, and a fuel shortage is exacerbating the communication and power situation.
 
-##Humanitarian Response Progress
+## Humanitarian Response Progress
 
 The National Disaster Management Institute (INGC) is leading the response from the national government and the request for international assistance has been made by the President of Mozambique. The international humanitarian community is mobilizing response efforts and a many of NetHope’s members who are active in the region are currently performing needs’ assessments.
 
 The main coordination hub for the response is at Beira Airport where the Emergency Telecommunication Cluster (ETC) has established internet connectivity for the humanitarian community. The ETC has mobilized a number of its partner organizations and has deployed an ETC coordinator to Beira along with an information management officer.
 
-##NetHope Response Progress Report
+## NetHope Response Progress Report
 
 NetHope has been in close contact with its member organizations since the cyclone hit on March 14. Based on the scale of the situation, NetHope has deployed its Global Director of Field Operations, Rami Shakra, to Mozambique to assess how NetHope can support its member organizations, the ETC, and the broader response community in the coming days and weeks.
 
