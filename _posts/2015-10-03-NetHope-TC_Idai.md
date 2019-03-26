@@ -5,6 +5,8 @@ date:   2019-03-25 11:04:01
 categories: post
 ---
 
+There are a number of useful portals maintained by different organizations with current analysis and operational data.
+<!--more-->
 
 *Documents and data*
 
