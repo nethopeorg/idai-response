@@ -5,13 +5,11 @@ date:   2019-03-20 11:24:01
 categories: post
 ---
 
-This report provides an update on the NetHope Emergency Response Team efforts in the aftermath of Tropical Cyclone Idai.
+This report provides an update on the NetHope Emergency Response Team efforts in the aftermath of Tropical Cyclone Idai. <!--more-->
 
 ## Summary of Situation
 
 On March 14, Tropical Cyclone Idai made landfall in Mozambique as a Category 3 storm. As it traveled inland, it dumped large amounts of rain over areas of Mozambique, Zimbabwe, and Malawi that were already inundated from weeks of heavy rains. As the traditional rain season continues through the end of March, continued heavy rainfall in the area is causing additional issues.
-
-<!--more-->
 
 The initial damage from the cyclone was mainly in the coastal city of Beira, which was right in the path of the cyclone as it made landfall. The city was cut off from the rest of the country as roads were severely damaged due to the flooding and landslides that followed in the aftermath of the cyclone. Initial reports from IFRC indicated that 90 percent of houses in the Beira, home to more than 530,000 people, had been damaged. Many parts of the city were flooded, and wind damage was extensive.
 
